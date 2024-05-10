@@ -1,0 +1,1 @@
+after [npm run build] only dist file can be sent to netlify
